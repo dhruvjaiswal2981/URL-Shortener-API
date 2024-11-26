@@ -114,4 +114,4 @@ To test the API endpoints, you can use tools like Postman or cURL.
 
 # Deployment
 - Live Demo: The application is hosted on Render.
-- Access it here: https://ui-untitled.netlify.app/
+- Access it here: https://url-shortener-api-o6f0.onrender.com
